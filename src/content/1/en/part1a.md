@@ -14,7 +14,7 @@ The easiest way to get started by far is by using a tool called [create-react-ap
 Let's create an application called <i>part1</i> and navigate to its directory.
 
 ```bash
-$ npx create-react-app part1
+$ npx create-react-app part1 --use-npm
 $ cd part1
 ```
 
